@@ -30,9 +30,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathew-Maradin&theme=radical)
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathew-Maradin&theme=radical)
 
-</details>
