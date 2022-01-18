@@ -27,4 +27,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathew-Maradin&theme=radical)
 
-
+![](https://komarev.com/ghpvc/?username=Mathew-Maradin&color=brightgreen)
