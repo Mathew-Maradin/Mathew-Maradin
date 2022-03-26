@@ -1,5 +1,9 @@
 ###  👋 Hi there, I'm Mathew
 
+📚Academics: <br>
+  Second year Nanotechnology engineering student focusing on electronics and minoring in computing at the University of Waterloo
+  Coursework includes: Python, MATLAB, Statistics, Linear Circuits, Semiconductor Devices, Electromagnetism, Data Structures & Algorithms
+
 ⚡ Work experience: <br>
 - Software Engineer intern at Rogers Communications - Front-end development in an Angular [Toronto Winter 2022]
 - Product Engineer at TOOLBX - Tools development with Retool, Javascript and salesforce. [Tronto, Summer 2021]
