@@ -1,5 +1,21 @@
 ###  👋 Hi there, I'm Mathew
 
+⚡ Work experience: <br>
+- Software Engineer intern at Rogers Communications - Front-end development in an Angular [Toronto Winter 2022]
+- Product Engineer at TOOLBX - Tools development with Retool, Javascript and salesforce. [Tronto, Summer 2021]
+
+
+🔭 Current project: 
+- Google Chrome stock tracker extension
+
+🌱 Interests:
+- Software development
+- Hardware development
+- NBA basketball
+
+💬 Reach me by email or LinkedIn! mmaradin@uwaterloo.ca | www.linkedin.com/in/mathewmaradin 
+
+📫 Visit my website: https://mathewmaradin.com
 
 ### Languages and Tools:
 
