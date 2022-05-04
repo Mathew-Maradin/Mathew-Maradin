@@ -6,7 +6,7 @@
 
 ⚡ Work experience: <br>
 - Software Engineer intern at Rogers Communications - Front-end development in an Angular [Toronto Winter 2022]
-- Product Engineer at TOOLBX - Tools development with Retool, Javascript and salesforce. [Tronto, Summer 2021]
+- Product Engineer at TOOLBX - Tools development with Retool, Javascript and salesforce. [Toronto, Summer 2021]
 
 
 🔭 Current project: 
