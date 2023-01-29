@@ -4,8 +4,10 @@
 
 - Software Engineer intern at National Bank of Canada, Tranding and Financial Markets - Building trading tools
   <br>[Toronto Fall 2022 - Winter 2023]
+  <br>
 - Software Engineer intern at Rogers Communications - Front-end development in an Angular
   <br>[Toronto Winter 2022]
+  <br>
 - Product Engineer at TOOLBX - Tools development with Retool, Javascript and salesforce.
   <br>[Toronto, Summer 2021]
 
