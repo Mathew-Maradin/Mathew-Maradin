@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Mathew
 
-⚡ Work experience: <br>
+⚡ Work experience:
 
 - Software Engineer intern at National Bank of Canada, Tranding and Financial Markets - Building trading tools
   <br>[Toronto Fall 2022 - Winter 2023]
