@@ -20,4 +20,4 @@ solving hard problems
 
 📫 Visit my website: https://mathewmaradin.com
 
-![](https://komarev.com/ghpvc/?username=MihirKakkar&color=red&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Mathew-Maradin&color=red&style=flat-square)
