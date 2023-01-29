@@ -19,5 +19,3 @@ solving hard problems
 💬 Reach me by email or LinkedIn! mmaradin@uwaterloo.ca | www.linkedin.com/in/mathewmaradin
 
 📫 Visit my website: https://mathewmaradin.com
-
-![](https://komarev.com/ghpvc/?username=Mathew-Maradin&color=red&style=flat-square)
